@@ -1,0 +1,3 @@
+Hello Pavel, I decided to perform this task in the console application, 
+because I am not familiar with Rest.API technology at this time.
+We are now studying at Step Academy ASP.NET MVC and JavaScript.
