@@ -1,0 +1,13 @@
+D:\Mylnikof\WinForms\TestProject\TestProject\bin\Debug\TestProject.exe.config
+D:\Mylnikof\WinForms\TestProject\TestProject\bin\Debug\TestProject.exe
+D:\Mylnikof\WinForms\TestProject\TestProject\bin\Debug\TestProject.pdb
+D:\Mylnikof\WinForms\TestProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+D:\Mylnikof\WinForms\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+D:\Mylnikof\WinForms\TestProject\TestProject\obj\Debug\TestProject.exe
+D:\Mylnikof\WinForms\TestProject\TestProject\obj\Debug\TestProject.pdb
+F:\Test.Net\TestProject\TestProject\bin\Debug\TestProject.exe.config
+F:\Test.Net\TestProject\TestProject\bin\Debug\TestProject.exe
+F:\Test.Net\TestProject\TestProject\bin\Debug\TestProject.pdb
+F:\Test.Net\TestProject\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+F:\Test.Net\TestProject\TestProject\obj\Debug\TestProject.exe
+F:\Test.Net\TestProject\TestProject\obj\Debug\TestProject.pdb
